@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Allerta+Stencil&display=swap');
+
+.main-header {
+    padding: 30px;
+    font-family: 'Allerta Stencil', sans-serif;;
+    background-color: #045c0ad1;
+    color: #ffffff;
+}
+
+.main-header h1 {
+    display: inline-block;
+    font-size: 55px;
+}
+
+.main-header nav {
+    padding-top: 15px;
+    margin-left: 150px;
+    float: center;
+    font-family: 'Allerta Stencil', sans-serif;;
+    font-size: 30px;
+}
+
+.main-header nav ul {
+    list-style-type: none;
+}
+
+.main-header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
